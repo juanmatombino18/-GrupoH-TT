@@ -1,1 +1,2 @@
 Rodriguez Juan Manuel y Huarachi David
+La idea es hacer un juego de plataforma donde el personaje tenga que sortear distintos obstaculos para poder llegar a la meta y subir la dificultad del siguiente escenario
